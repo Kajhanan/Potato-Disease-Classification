@@ -7,9 +7,9 @@ Brown patches on potato leaves indicate a disease called blight. These can be av
 | *Space* |
 
 | ![My Image](Images/Early Blight.jpg)
-||:--:|
+|:--:|
 | <b>Early Blight</b>|
 
 | ![My Image](Images/Late Blight.jpg)
-||:--:|
+|:--:|
 | <b>Late Blight</b>|
